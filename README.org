@@ -1,0 +1,10 @@
+* specialized-function
+
+ Julia-like dispatch for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/numcl/specialized-function.git   |
+| commit  | 5e2b044  |
+| systems | specialized-function |
+|---------+-------------------------------------------|
+
